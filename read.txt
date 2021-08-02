@@ -1,0 +1,25 @@
+git remote add origin "https://github.com/VELIDIPRADEEPKUMAR/VELIDIPRADEEPKUMAR.git"
+
+git pull origin main
+
+git status 
+
+git add -A
+
+git commit -a " hi"
+
+git push origin main 
+
+git branch new_branch
+
+git checkout new_branch 
+
+ 
+git config --global user.name "VELIDIPRADEEPKUMAR"
+
+ssh - keygen 
+
+ssh -T git@github.com
+
+
+git branch -M main
