@@ -1,1 +1,12 @@
 # QUARDCOPTER
+![pic1](1.jpg)
+![pic2](2.jpg)
+![pic3](3.jpg)
+![pic4](4.jpg)
+![pic5](5.jpg)
+![pic6](6.jpg)
+![pic7](7.jpg)
+![pic8](8.jpg)
+![pic9](9.jpg)
+![pic10](10.jpg)
+![pic11](11.jpg)
